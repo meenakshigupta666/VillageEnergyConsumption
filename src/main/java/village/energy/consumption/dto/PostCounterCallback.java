@@ -1,6 +1,5 @@
 /**
- * Alipay.com Inc.
- * Copyright (c) 2004-2020 All Rights Reserved.
+ * PostCounterCallback DTO(villageeneryconsumption)
  */
 package village.energy.consumption.dto;
 

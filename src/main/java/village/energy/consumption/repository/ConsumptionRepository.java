@@ -1,6 +1,5 @@
 /**
- * Alipay.com Inc.
- * Copyright (c) 2004-2020 All Rights Reserved.
+ * Consumption Repository(villageeneryconsumption)
  */
 package village.energy.consumption.repository;
 

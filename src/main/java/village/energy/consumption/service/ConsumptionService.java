@@ -1,6 +1,5 @@
 /**
- * Alipay.com Inc.
- * Copyright (c) 2004-2020 All Rights Reserved.
+ * Consumption Service(villageeneryconsumption)
  */
 package village.energy.consumption.service;
 
@@ -8,11 +7,11 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
+import village.energy.consumption.cache.VillageDataCache;
 import village.energy.consumption.domain.ConsumptionRecord;
 import village.energy.consumption.dto.PostCounterCallback;
 import village.energy.consumption.dto.Village;
 import village.energy.consumption.repository.ConsumptionRepository;
-import village.energy.consumption.cache.VillageDataCache;
 
 import java.util.Calendar;
 import java.util.HashMap;
