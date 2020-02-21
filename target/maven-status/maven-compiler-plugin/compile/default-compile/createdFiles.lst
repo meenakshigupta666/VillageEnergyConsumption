@@ -1,0 +1,8 @@
+village/energy/consumption/dto/CounterVillageData.class
+village/energy/consumption/domain/ConsumptionRecord.class
+village/energy/consumption/dto/Village.class
+village/energy/consumption/cache/VillageDataCache.class
+village/energy/consumption/controllers/ConsumptionController.class
+village/energy/consumption/repository/ConsumptionRepository.class
+village/energy/consumption/service/ConsumptionService.class
+village/energy/consumption/dto/PostCounterCallback.class
